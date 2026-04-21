@@ -1,10 +1,8 @@
-## Hi there 👋
-
 <!--
 ## Olá, eu sou a Iara 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Formação em Marketing com foco em tecnologia  
+💻 Formação em Marketing em transição de carreira para tecnologia  
 🔍 Focada em Qualidade de Software (QA)  
 
 🌱 Atualmente estudando:
