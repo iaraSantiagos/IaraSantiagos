@@ -41,11 +41,15 @@ Atualmente, estou desenvolvendo minhas habilidades em testes de software, metodo
 
 * Git
 * GitHub
+* Jira
+* Xray
+* Zephir
 
 ### Metodologias
 
 * Scrum
 * Metodologias Ágeis
+* BDD/Gherkin
 
 ### Em Aprendizado
 
